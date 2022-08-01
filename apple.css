@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-item{
+    margin-left: 20px;
+}
+
+
+.img-lap{
+    height:35vw;
+    
+
+
+}
+.iphone2{
+    height: 30vw;
+    
+}
+
+.h1-iphone13{
+    margin-left: 220px;
+}
+.h2-iphone13{
+    margin-left: 300px;
+}
+.iphone13-img{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.macbook{
+    height: 500px;
+    width: 600px;
+    
+}
+.macbook-13{
+    background: black;
+    width: 600px;
+    padding-left: 100px;
+}
+.card{
+    width: 600px;
+    overflow: hidden;
+    margin-top: 60px;
+    
+}
+ .background1{
+  background-image: url('promo_mbp13__buwssod6c8vm_large.jpeg');
+  background-size: cover;
+  background-position: center;
+height: 500px;
+margin-top: 80px;
+
+
+
+background-repeat: no-repeat;
+    
+} 
+.background2{
+    background-image: url('promo_watch_lte__djeaso7ukrsm_large.jpeg');
+    background-size: cover;
+    background-position: center;
+  height: 500px;
+  margin-top: 80px;
+  
+  
+  
+  
+  background-repeat: no-repeat;
+      
+  } 
+  .watch-link{
+    margin-left: 150px;
+  }
+  .apple-icon{
+    margin-left: 150px;
+    margin-top: 20px;
+    float: left;
+    
+  }
+  .watch-text{
+   
+    float: left;
+    
+
+  }
+  .series-watch{
+    margin-left: 210px;
+  }
+  .background3{
+    background-image: url('promo_ipadair_avail__ferd4bfpcdm6_large.jpeg');
+    background-size: cover;
+    background-position: center;
+  height: 500px;
+  margin-top: 80px;
+  
+  
+  
+  background-repeat: no-repeat;
+      
+  }
+  .card1{
+    height: 500px;
+    width: 600px;
+  }
+  .apple-icon{
+    margin-left: px;
+    margin-top: -20;
+  }
